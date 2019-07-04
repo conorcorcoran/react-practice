@@ -1,3 +1,5 @@
+ This project was done as practice with React. It is a game of Tic-tac-toe with a history of the moves being stored as you play. This allows the players to 'time travel' back to earlier moves and make better decisons. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
